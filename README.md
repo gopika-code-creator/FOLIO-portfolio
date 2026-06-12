@@ -6,7 +6,7 @@ A responsive personal portfolio website showcasing my projects, skills, and jour
 
 Add your Netlify link here:
 
-[https://your-portfolio.netlify.app](https://gopikapradeep-portfolio.netlify.app/)
+https://portfolio-folio.netlify.app/
 
 ## Features
 
